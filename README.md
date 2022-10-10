@@ -34,3 +34,4 @@
 <a href="https://gauravraj1141.github.io/Postman-Js/" target="_blank">Postman (Test Your Api)</a>
 
 <br>
+<a href="https://gauravraj1141.github.io/Calculator/" target="_blank">Calculator</a>
