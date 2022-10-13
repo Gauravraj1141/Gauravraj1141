@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Passionate Full Stack Python Developer From India.<br>🌱 I’m currently Exploring my development skills.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns: He/His<br>⚡ Fun fact: I think I am sarcastic 😉<br> Click Below👇 the Icon for Visit  My Youtube Channel 🎬<br>[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/GauravRajput1141) 
+🔭 I’m a Passionate Full Stack Python Developer From India.<br>🌱 I’m currently Exploring my development skills.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns: He/His<br>⚡ Fun fact: I think I am sarcastic 😉<br>📢Click Below👇on the Icon for Visit  My Youtube Channel 🎬<br>🛎️[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/GauravRajput1141) 
 
 
 ## 🌐 Socials:
