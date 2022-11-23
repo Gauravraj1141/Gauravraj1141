@@ -35,3 +35,10 @@
 
 <br>
 <a href="https://gauravraj1141.github.io/Calculator/" target="_blank">Calculator</a>
+
+
+<br>
+<a href="https://grtodo.herokuapp.com/" target="_blank">Django Todo App</a>
+
+
+
