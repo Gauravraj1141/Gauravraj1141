@@ -27,7 +27,10 @@
 <h2>MY All Projects </2>
 <br>
 <hr>
-<a href="https://blog-gr.vercel.app/" target="_blank">Blog Adder IN Django</a>
+<a href="https://novusaurelius.com/" target="_blank">Stock Dashboard</a>
+<br>
+  <hr>
+<a href="https://gr-blog.onrender.com/" target="_blank">Blog Adder</a>
 <br>
 <a href="https://gauravraj1141.github.io/notes-app-github.io/gaurav.html" target="_blank">Notes taking Webpage</a>
 <br>
